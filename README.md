@@ -21,7 +21,7 @@
 * run trainer.py for trained dataset
 * run detector.py for recognition of face
 
-![bbf](https://user-images.githubusercontent.com/9657488/35817774-5284ddb0-0ac4-11e8-98a0-249db21a92c0.png)
+
 
 
 ### For running a simple back propagation neural network
